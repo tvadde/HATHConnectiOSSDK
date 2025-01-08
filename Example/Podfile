@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'HATHConnectiOSSDK_Example' do
+  pod 'HATHConnectiOSSDK', :path => '../'
+
+  target 'HATHConnectiOSSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

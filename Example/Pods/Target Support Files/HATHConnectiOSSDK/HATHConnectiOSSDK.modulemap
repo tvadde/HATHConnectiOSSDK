@@ -1,0 +1,6 @@
+framework module HATHConnectiOSSDK {
+  umbrella header "HATHConnectiOSSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

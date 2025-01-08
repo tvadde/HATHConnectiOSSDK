@@ -1,0 +1,111 @@
+{
+  "name": "HATHConnectiOSSDK",
+  "version": "0.1.0",
+  "summary": "Its connected to HealthATHand SDK",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tvadde/HATHConnectiOSSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tvadde": "sriram.2202@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tvadde/HATHConnectiOSSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "WebRTC": [
+      "= 63.11.20455"
+    ],
+    "CocoaLumberjack/Swift": [
+      "3.5.1"
+    ],
+    "Cosmos": [
+      "18.0.1"
+    ],
+    "NVActivityIndicatorView": [
+      "4.6.1"
+    ],
+    "Pageboy": [
+      "3.0.2"
+    ],
+    "CryptoSwift": [
+
+    ],
+    "Alamofire": [
+      "4.8.1"
+    ],
+    "SwiftyJSON": [
+      "4.2.0"
+    ],
+    "Disk": [
+      "0.4.0"
+    ],
+    "SwiftMessages": [
+      "6.0.2"
+    ],
+    "EasyTipView": [
+      "2.0.1"
+    ],
+    "ISPageControl": [
+      "0.1.0"
+    ],
+    "WeScan": [
+      "1.1.0"
+    ],
+    "CropViewController": [
+
+    ],
+    "SwiftDate": [
+      "6.0.1"
+    ],
+    "Kingfisher": [
+      "5.4.0"
+    ],
+    "PhoneNumberKit": [
+      "~> 3.7"
+    ],
+    "MOLH": [
+      "1.1.2"
+    ],
+    "UICircularProgressRing": [
+      "6.5.0"
+    ],
+    "Caishen": [
+      "2.2.1"
+    ],
+    "Then": [
+      "2.6.0"
+    ],
+    "CardIODynamic": [
+      "5.4.1"
+    ],
+    "Frames": [
+      "4.3.6"
+    ],
+    "Validator": [
+      "3.2.1"
+    ],
+    "ADCountryPicker": [
+      "~>2.1.0"
+    ],
+    "SkeletonView": [
+
+    ],
+    "lottie-ios": [
+      "3.2.3"
+    ],
+    "DGCharts": [
+      "5.0.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

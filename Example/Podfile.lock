@@ -1,0 +1,163 @@
+PODS:
+  - ADCountryPicker (2.1.0)
+  - Alamofire (4.8.1)
+  - Caishen (2.2.1)
+  - CardIODynamic (5.4.1)
+  - Checkout (4.3.6):
+    - CheckoutEventLoggerKit (~> 1.2.4)
+    - Risk (= 3.0.2)
+  - CheckoutEventLoggerKit (1.2.4)
+  - CocoaLumberjack/Core (3.5.1)
+  - CocoaLumberjack/Swift (3.5.1):
+    - CocoaLumberjack/Core
+  - Cosmos (18.0.1)
+  - CropViewController (2.7.4)
+  - CryptoSwift (1.8.3)
+  - DGCharts (5.0.0):
+    - DGCharts/Core (= 5.0.0)
+  - DGCharts/Core (5.0.0)
+  - Disk (0.4.0)
+  - EasyTipView (2.0.1)
+  - FingerprintPro (2.2.0)
+  - Frames (4.3.6):
+    - Checkout (= 4.3.6)
+    - CheckoutEventLoggerKit (~> 1.2.4)
+    - PhoneNumberKit
+  - HATHConnectiOSSDK (0.1.0):
+    - ADCountryPicker (~> 2.1.0)
+    - Alamofire (= 4.8.1)
+    - Caishen (= 2.2.1)
+    - CardIODynamic (= 5.4.1)
+    - CocoaLumberjack/Swift (= 3.5.1)
+    - Cosmos (= 18.0.1)
+    - CropViewController
+    - CryptoSwift
+    - DGCharts (= 5.0.0)
+    - Disk (= 0.4.0)
+    - EasyTipView (= 2.0.1)
+    - Frames (= 4.3.6)
+    - ISPageControl (= 0.1.0)
+    - Kingfisher (= 5.4.0)
+    - lottie-ios (= 3.2.3)
+    - MOLH (= 1.1.2)
+    - NVActivityIndicatorView (= 4.6.1)
+    - Pageboy (= 3.0.2)
+    - PhoneNumberKit (~> 3.7)
+    - SkeletonView
+    - SwiftDate (= 6.0.1)
+    - SwiftMessages (= 6.0.2)
+    - SwiftyJSON (= 4.2.0)
+    - Then (= 2.6.0)
+    - UICircularProgressRing (= 6.5.0)
+    - Validator (= 3.2.1)
+    - WebRTC (= 63.11.20455)
+    - WeScan (= 1.1.0)
+  - ISPageControl (0.1.0)
+  - Kingfisher (5.4.0)
+  - lottie-ios (3.2.3)
+  - MOLH (1.1.2)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - Pageboy (3.0.2)
+  - PhoneNumberKit (3.8.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.8.0)
+    - PhoneNumberKit/UIKit (= 3.8.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.8.0)
+  - PhoneNumberKit/UIKit (3.8.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - Risk (3.0.2):
+    - CheckoutEventLoggerKit (~> 1.2.4)
+    - FingerprintPro (= 2.2.0)
+  - SkeletonView (1.30.4)
+  - SwiftDate (6.0.1)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - SwiftyJSON (4.2.0)
+  - Then (2.6.0)
+  - UICircularProgressRing (6.5.0)
+  - Validator (3.2.1)
+  - WebRTC (63.11.20455)
+  - WeScan (1.1.0)
+
+DEPENDENCIES:
+  - HATHConnectiOSSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ADCountryPicker
+    - Alamofire
+    - Caishen
+    - CardIODynamic
+    - Checkout
+    - CheckoutEventLoggerKit
+    - CocoaLumberjack
+    - Cosmos
+    - CropViewController
+    - CryptoSwift
+    - DGCharts
+    - Disk
+    - EasyTipView
+    - FingerprintPro
+    - Frames
+    - ISPageControl
+    - Kingfisher
+    - lottie-ios
+    - MOLH
+    - NVActivityIndicatorView
+    - Pageboy
+    - PhoneNumberKit
+    - Risk
+    - SkeletonView
+    - SwiftDate
+    - SwiftMessages
+    - SwiftyJSON
+    - Then
+    - UICircularProgressRing
+    - Validator
+    - WebRTC
+    - WeScan
+
+EXTERNAL SOURCES:
+  HATHConnectiOSSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Caishen: 903d1d567b010b28217acd38e438b5917623cfef
+  CardIODynamic: 4a0d2d0e7b82993ceca67491564934c3475fbe79
+  Checkout: da832c56173dd536f96ac32f89c2c46e31f30038
+  CheckoutEventLoggerKit: b780dec46295a34942780ea6230d0d5fd08aa05a
+  CocoaLumberjack: 2101f8a5508197a305e737d16c5c2e9e2157628c
+  Cosmos: 7dfaa3f52584ca5f94ab74b5c2e264019cc9f7f5
+  CropViewController: 3489bbf95a3e11c654382b0bae08ac645cdf1b93
+  CryptoSwift: 967f37cea5a3294d9cce358f78861652155be483
+  DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
+  Disk: ef2956657d5bb56034b38b29b352170165226440
+  EasyTipView: 1515544456d6e943240012e9be5d25d1bb766603
+  FingerprintPro: 72e35dc0315b75ba36eafaaed996dbb2f35f7326
+  Frames: db6251b6ccbcbe59dc6b62d41372598ba823f4cf
+  HATHConnectiOSSDK: bd6e04bb49758f69b061105a49a4199587a4b8e4
+  ISPageControl: cadeb38e9ecdf05540c69ea1132612521b3caa2a
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  MOLH: 79723d6938aff0ac02aebe4d89cc96b73f46fa32
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  Pageboy: 0e955738f7a46d617e8f6ee11c77f1658bb878c2
+  PhoneNumberKit: ec00ab8cef5342c1dc49fadb99d23fa7e66cf0ef
+  Risk: a0732fef94dfddfa76ca70dbe0e5fe0f05557ec1
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SwiftDate: 2b3ef6b8fc30c22391033d1acad5622a51660016
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  Then: 90cd104fd951cec1980a03f57704ad8f784d4d79
+  UICircularProgressRing: e6852e8f88e296cbbbe2720cccb55241acda6708
+  Validator: 80a6f567220c962dfd2d9928ae98a8c1d164f6f4
+  WebRTC: f2a6203584745fe53532633397557876b5d71640
+  WeScan: 7ebe08c966fbd7321be2be1a962423c237e3e2ec
+
+PODFILE CHECKSUM: aa47a032d01d733ddd24d5c6b976f952189beda5
+
+COCOAPODS: 1.16.2
